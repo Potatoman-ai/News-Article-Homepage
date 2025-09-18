@@ -14,6 +14,6 @@
     <h6>Date: 09/05/2025</h6>
 </body>
 <body>
-    <p>My article talks about what the Wisconsin Market Fall Arts and Craft Fair is about and why you should go to it. It is a three paragraph news article that talks about what you will find and the type of enviroment and atmosphere you will find. This fair is really helpful for our small town artists. Here is the link to the News Article <a href="file:///home/chronos/u-8a60fac2e7bd1cab39149ec835f486b464f965aa/MyFiles/Downloads/Monte%20News%20article%20(4).html">click here</a> .</p>
+    <p>My article talks about what the Wisconsin Market Fall Arts and Craft Fair is about and why you should go to it. It is a three paragraph news article that talks about what you will find and the type of enviroment and atmosphere you will find. This fair is really helpful for our small town artists. Here is the link to the News Article <a href="Monte-News-Article.html">click here</a> .</p>
 </body>
 </html>
